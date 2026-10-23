@@ -1,2 +1,2 @@
-# Wikipedia-Clone-for-Historical-and-regional-places
+# Frontend Assignments
 frontend project
